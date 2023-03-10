@@ -1,0 +1,81 @@
+
+software-development-life-cycle
+A simple Google search for software development lifecycle can flood you with basic information with varying degrees of emphasis on 7 phases that complete the entire SDLC process.
+
+First, the information provided is extremely general in nature and just mean to provide an overview of software development life cycle (SDLC), and second that although the SDLC process is similar, every software application development company sets different metrics for various SDLC phases and that actually makes all the difference.
+
+With this post on SDLC life cycle phases, we aim to introduce you to a system that if followed diligently will result in software applications that meet your expectations.
+
+To deep dive into the software development lifecycle, it is essential for you to begin with understanding SDLC phases from the very beginning which ideally starts with the question:
+
+What is Software Development Life Cycle?
+SDLC or Software Development Life Cycle is a process that defines a set of steps followed in the software development process, from the commencement of the idea to the maintenance of the software. As the name suggests, SDLC covers the complete cycle of development, and even extend to further evaluation and disposal after maintenance.
+
+Benefits of the SDLC
+A well-defined method for software development is crucial to the success of the application. By clearly defining the software development life cycle, a software development firm can develop a seamless information structure throughout the process to keep every member of the team informed.
+
+Key benefits of creating a robust SDLC framework are:
+Seamless flow of communication between development teams and stakeholders
+Clear role and responsibility assigned to each member of the team
+Controlled flow of input and output from one phase to another
+Understanding the 7 Phases of Software Development Project Life Cycle
+SDLC framework includes a range of interrelated activities for application designers and software developers to follow. It consists of 7 key phases wherein each phase applies the result of the previous phase.
+
+software-development-life-cycle-sdlc
+1. Planning
+Software development planning is one of the most crucial phases of the SDLC process. At this phase, a collaborative effort from the key members of the software development team and stakeholders is required to ensure that all perspectives from both sides have been covered. These perspectives may include:
+
+Objective and scope of the application
+Proposed alternative solution for objectives and specific problems
+Cost estimation analysis and implementations of proposed changes, if any
+It is important for the success of the software application development project that all the stakeholders discuss and document these aspects for future reference, in case of any conflict.
+
+2. Requirement Gathering
+Since the objectives have been clearly set at the planning phase, related facts gathering and interpretation of those facts are done at the requirement gathering phase. During this phase, a software development company analyzes the project goals with the end user information needs. The purpose of the analysis is to remove discrepancies and set complete user-requirement.
+
+At this stage, software application development solution provider strives to achieve the following goals:
+Obtain end-user requirements through interviews, face-to-face interactions, observations, and questionnaires.
+Analyze goals and objectives, and factors that can cause risks and create challenges and make strategies to avoid those challenges when working.
+Create a detailed plan of how to move ahead and prepare specifications for the next process.
+Requirement gathering phase must cover all the other stages of the software development life cycle and SDLC models, such as Agile, Scrum, and Waterfall, so that designers, developers, and stakeholders have a clear idea of what they will be working on and what would be the expected result.
+
+3. Design & Prototyping
+The effects of your hard work in the first two phases will be visible at design & prototyping phase of the SDLC process. The minutely you have planned and gathered requirements, the stronger your designing team will come out at this phase, as the design process uses the set patterns for application architecture and software development.
+
+Software design patterns contain best practices and so followed by object-oriented software developers. The design patterns help developers to address persistent problems in object-oriented systems.
+
+A series of steps need to be determined at this phase of the software development life cycle is the creation of screen layout, process diagrams, pseudocode, and documentation.
+
+If you are yet to hire software developers from reputed software development company, make sure to check how closely their designing team and software development team works, which is very crucial for the software application success.
+
+4. Coding
+At this phase of the software development life cycle, codes for the application is written. It is the actual “development” phase of the software where an idea of the software is transformed into a functional, efficient software program.
+
+The most crucial aspect of this phase is the SDLC model chosen by the software development company. Although there are various types of software development life cycle methodologies, the two common models are Agile and Waterfall.
+
+Regardless of the methodology, the key objective of this phase is to acutely follow the design patterns and documentation provided by the design team and put the best effort in developing testable, functional software.
+
+5. Integration and Testing
+When a software development firm reaches this software development life cycle phase means they very close to the end-consumers. What they need to keep in mind is to bring all the pieces of the software together and test the software from the perspective of users.
+
+Usually, quality analysts test the software application for bugs, errors, and interoperability. They need to come up with a winning strategy for application testing to make the software bug-free or at least try removing major bugs that can impact the usability of the software.
+
+There are different types of testing that need to perform, such as:
+Certification testing	Documentation testing
+Beta testing	Functional testing
+Localization testing	Usability testing
+Change related testing	UI testing
+Recovery testing	Compatibility (Configuration)
+Performance testing	testing
+By performing all these tests on a regular basis, quality analysts ensure that functional software is ready for deployment in a production environment.
+
+6. Installation and Deployment
+Now that you are close to the software release cycle, automation rules at installation and deployment phase, although in enterprises with low maturity levels, the process of manual approval still exists.
+
+There are several Application Release Automation (ARA) tools which are used to automate the deployment process. Commonly, these tools are integrated with continuous integration tools to produce working software.
+
+7. Maintenance
+Maintenance is an ongoing life cycle phase in software project management. At this phase of SDLC, a software development company takes effective measures to ensure that the software is meeting its objective and does not become obsolete. Bug fixes are also the part of maintenance, ensuring that new fixes do not introduce new problems.
+
+Conclusion
+The software development life cycle management is the key responsibility of project managers and business owners. To make the system flawless, it is crucial that all the stakeholders come together to discuss the objective and goals from different perspectives and deliver the expected output.

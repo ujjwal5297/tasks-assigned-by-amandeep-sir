@@ -1,0 +1,10 @@
+1. create a signup form using bootstrap. Here are the requirements -
+   form should contain following fields -
+     - First Name
+     - Last Name
+     - Email
+     - contact Number
+     - gender
+     - password
+     - confirm password
+2. Do your Research on "regular expression" in javascript. How we can implement regular expression in javascript

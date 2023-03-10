@@ -1,0 +1,25 @@
+You need to create a WebPage using 
+	- HTML, CSS and Javascript (use bootstrap for designing)
+Page should contain following components
+	- Navigation bar with 3 options
+		- Home
+		- Sign Up
+		- About Us	
+	- Footer component	
+	- When user clicks on Sign Up a page will open which will contains a Form.
+	  - Form should contain following fields along with validations
+			- firstName (required, minimum 3 and maximum 15 characters long)
+			- lastName	(required, minimum 3 and maximum 15 characters long)
+			- emailAddress (required, should be valid email address)
+			- contactNumber (required, should be only valid indian mobileNumber)
+			- password (required, should contain minimum 1 character, 1 number and length should be between 8 to 14 characters long)
+			- confirmPassword (required, should contain minimum 1 character, 1 number and length should be between 8 to 14 characters long)
+			- maritalStatus (Which will be dropdown of following fields)
+				- Married
+				- UnMarried
+				- Divorced
+				- Widowed
+				- Saparated
+use regular expression for validation.
+
+ETA - 3 Hour

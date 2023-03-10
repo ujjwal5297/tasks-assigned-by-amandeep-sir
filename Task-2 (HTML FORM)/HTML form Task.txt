@@ -1,0 +1,12 @@
+Need to create a signup form. Here are the requirements -
+form should contain following fields -
+
+1. First Name
+2. Last Name
+3. Email
+4. contact Number
+5. gender
+6. password
+7. confirm password
+
+ETA - 2 Hours

@@ -1,0 +1,36 @@
+JavaScript has events to provide a dynamic interface to a webpage. These events are hooked to elements in the Document Object Model (DOM). These events by default use bubbling propagation i.e, upwards in the DOM from children to parent. We can bind events either as inline or in an external script.  There are multiple events associated with Javascript which include onClick(), onChange(), onmouseleave(), onmouseout(), onmouseover(), onload() etc.
+
+In this article, we will specifically learn about the event that occurs when a value is added to an input box in JavaScript.
+
+JavaScript oninput() event: The oninput() event occurs when a value is added to an input box. We enter a value using the keyboard. So we can associate certain keyboard events when a value is added in an input box using the keyboard.
+
+These events may include:
+
+
+onkeypress: When the user presses a key that produces a character value.
+onkeyup: Whenever a key is released after pressing.
+onkeydown: When the user has pressed down the key. It will occur even if the key pressed does not produce a character value.
+
+We can also associate onChange events when a value is added in an input box using the keyboard.
+
+onChange: This event detects the change in the value of any element listed in this event.
+
+
+**************************
+
+
+The events that can be used with an input field of a form in JavaScript include:
+
+input: This event is fired whenever the value of the input field changes, including when the user types, pastes, or deletes text.
+
+change: This event is fired when the input field loses focus and its value has been changed since the last time it gained focus.
+
+focus: This event is fired when the input field gains focus, which happens when the user clicks on the input field or uses the keyboard to navigate to it.
+
+blur: This event is fired when the input field loses focus, which happens when the user clicks away from the input field or uses the keyboard to navigate away from it.
+
+keydown: This event is fired when a key is pressed down while the input field has focus.
+
+keyup: This event is fired when a key is released after being pressed down while the input field has focus.
+
+keypress: This event is fired when a key is pressed down and released while the input field has focus.

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: darkgoldenrod; */
+    padding: 1rem;
+    list-style: none;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.col-4 h1{
+    text-align: center;
+}
